@@ -1,3 +1,5 @@
+#File Size of the file
+
 import os
 print("Enter file to open")
 filepath = input()
