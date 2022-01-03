@@ -1,3 +1,8 @@
+
+# 2. Accept n number from user
+# and print it's multiplication table.
+
+
 no = int(input())
 for j in range(1,no+1):
     h =int(input())

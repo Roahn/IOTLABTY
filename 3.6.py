@@ -1,3 +1,7 @@
+
+# 6. Given a number, count
+# the number of digits.
+
 no = int(input())
 
 count= 0

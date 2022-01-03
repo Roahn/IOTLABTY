@@ -1,3 +1,7 @@
+# 1. Accept n numbers from
+# the user. calculate the sum of all numbers from 1 to n.
+
+
 print("Count of Numbers ")
 no = int(input())
 isum= 0

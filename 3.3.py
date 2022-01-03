@@ -1,3 +1,8 @@
+# 3. Take a list from the
+# user. Display the numbers which are divisible by 5 and if number >120. Stop
+# the loop iteration.
+
+
 l=[]
 a=0
 for i in range(1,11):
